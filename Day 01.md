@@ -13,9 +13,10 @@ PREP
 ---------------------------------------
 
 - Post Project 1, Syllabus to blog
+- Post link to [Mini Presentations](https://docs.google.com/spreadsheet/ccc?key=0AiDUGXnd9lHLdGh4V1hFNVF6WXV4ZUhDSDB1ejliQkE&usp=sharing#gid=0) spreadsheet on the Resources page
 - Prepare previous student's Project 1 Examples
 - Get URLs loaded in browser (grades, class blog, syllabus)
-
+- **Move Shaun Inman presentation to Project 1, probably the second week of class**
 
 
 CLASS

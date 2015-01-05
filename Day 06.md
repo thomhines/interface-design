@@ -185,7 +185,7 @@ Meet individually with whoever wants to get more feedback
 HW
 ---------------------------------------
 
-1. Read [13 Ways Designers Screw Up Client Presentations](https://medium.com/@monteiro/13-ways-designers-screw-up-client-presentations-51aaee11e28c)
+1. Read [13 Ways Designers Screw Up Client Presentations](https://medium.com/@monteiro/13-ways-designers-screw-up-client-presentations-51aaee11e28c).
 
 2. **Finish Up Designs**
 
@@ -196,3 +196,10 @@ HW
 
 	You won't have to give a timed, formal presentation, but you should definitely have a good sense of what you want to show and what you want to say. Create a deliberate plan for the order you present your UI features and find ways to smoothly move between each of your apps elements. Don't come to class with just your slides and expect to be able to get full points on this thing!
 
+
+#### Articles from today's class
+- [Skeuomorphic Examples](http://www.dtelepathy.com/blog/inspiration/50-skeuomorphic-designs)
+- [Flat UI Examples](http://bashooka.com/inspiration/flat-web-ui-design/)
+- [HAWT UI Presentation Examples](http://line25.com/articles/inspirational-showcase-of-uiux-design-presentations)
+- [iPhone App Concepts](http://line25.com/articles/showcase-of-beautiful-iphone-app-ui-concept-designs)
+- [PlaceIt](http://placeit.breezi.com/)

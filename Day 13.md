@@ -14,6 +14,9 @@ CLASS
 ---------------------------------------
 
 
+### *NO CLASS - VETERAN'S DAY*
+
+
 ### Small Group discussions on project ideas
 
 While they work in small groups, talk with students one-on-one

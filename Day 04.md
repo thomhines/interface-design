@@ -8,6 +8,7 @@ ART 410 - Day 4
 PREP
 ---------------------------------------
 - Load up links
+- Prepare InVision Demo files
 - Print out tons of [templates](http://cdn.shopify.com/s/files/1/0042/9602/files/iphoneSketchpad_a4_v9-BW.pdf)
  for students to fill out in class
 
@@ -19,43 +20,13 @@ CLASS
 
 
 ### Quiz
-- What does a user flow look like (according to Ryan Singer)?
-- What information is included on one step of a user flow?
-- What issue did Ryan try to solve in his example with the video?
-- How did he suggest solving it?
+- What does a User Flow show us?
+- Why are we making User Flows?
+- Did anybody learn anything about their app by going through this process?
 
 
 
-### Student Presentations of User Flows
-- Break into 3 groups
-- Brief overview of all 3 (10 minutes per student)
-	- What is the intended objective?
-	- Do the steps lead toward that objective?
-	- Are the steps clear?
-	- Is anything missing?
-	- How could a user break this process?
-	- How can the user flow be improved?
-
-
-
-### Wireframes
-
-
-#### Tools
-- [wireframe.cc](http://wireframe.cc)
-- [Balsamiq](http://www.balsamiq.com/)
-- [UI Parade](http://webzap.uiparade.com/)
-- [Keynotopia](http://keynotopia.com/)
-- [Keynote Kung-Fu](http://keynotekungfu.com/)
-- [Pen and Paper](http://speckyboy.com/2011/05/29/20-effective-examples-of-web-and-mobile-wireframe-sketches/)
-
-For today, we'll be doing pen and paper. Using the feedback you got from your group, build wireframes for each of your views. 
-
-
-	
-### Break
-
-### Prototype Mini Presentation
+### Prototype Mini Presentation - Kristie
 
 - What is the point of prototyping? What can we expect to get out of it?
 
@@ -84,7 +55,10 @@ Don't:
 
 
 
-#### Create Prototypes
+
+#### Create Prototypes - 1 hour
+
+During this time, I'll meet with students
 
 Using [Prototyping on Paper (POP)](https://popapp.in/) or InVision, turn your wireframe into a prototype.
 
@@ -103,27 +77,42 @@ Validation Code: **56-73-13-19**
 
 
 
+#### Try out other people's prototypes - 5 min. each until end of class
+Split into 1-on-1 pairs and each person 'play tests' the other's app.
+- Watch, but don't comment unless the user has a question
+- Take notes on things that the user does while you watch
+
+I will check in with whoever doesn't have a partner.
+
+
+
+
 
 HW
 ---------------------------------------
+
+Tons to do, but you guys are constantly making great improvements. Keep it up! We'll spend more time talking about your project ideas next week. 
+
+Have a great weekend!
+Thom
 
 1. **Finish Survey**
 
 	For those of you who weren't in class, the survey is posted on the home page of the blog. You don't need to print it out. Instead, copy the questions to a new post in WordPress and answer them there. For the first question, make sure to list at least three overarching objectives you have for the blog. Make sure to publish the post when you are done.
 	
 	
-3. **User Testing**
+2. **User Testing**
 
-	First, finish your prototype.
+	First, finish your prototype and make whatever changes are necessary to account for the feedback you got in class.
 
 	Second, create a list of questions (probably 4-7) that you can ask your test users to help guide their feedback. Think about what it is you most want to learn about your app ideas (Is the user flow clear? Does it make sense to put the friends list after the map page, or before?) and then create the questions that allow for your testers to concretely address them. Remember: these tests are for *you*, not for your testers. 
 
-	Test your prototype with at least 3 people who haven't or heard of your app before. You don't need to take screen shots of them using your app, but do take notes on what they do and say about your app. Are they getting stuck in some particular part of your app? Do they get confused about what a particular feature does? Write down these details, along with their answers to your questionnaire, and post them to the blog. If you need more templates, you can get some here: [Templates](http://cdn.shopify.com/s/files/1/0042/9602/files/iphoneSketchpad_a4_v9-BW.pdf).
+	Test your prototype with at least 3 people who haven't heard of your app before, preferably people who are part of your target demographic. Take notes on what they do and say about your app. Are they getting stuck in some particular part of your app? Do they get confused about what a particular feature does? Write down these details, along with their answers to your questionnaire, and post them to the blog.
 
 
-4. **Mood Boards/Design Research**
+3. **Design Research**
 
-	Your first round of designs will be due next Thursday (two days after our next class), so make sure that you get a head start on it! Do as much as you can, but I'd like to see at least 20 pieces of design inspiration, type studies, color samples and whatever else you need to get started on actually designing something next week.
+	Your first round of designs will be due next Thursday (two days after our next class), so make sure that you get a head start on it! Do as much as you can, but I'd like to see at least a mood board (20 pieces of design inspiration, type studies, color samples) and at least one or two comps of a couple of your main screens.
 
 
 

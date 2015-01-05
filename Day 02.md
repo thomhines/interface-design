@@ -18,18 +18,14 @@ PREP
 CLASS
 ---------------------------------------
 
-### Housekeeping
-- Have people change their WP name to their full name (if necessary)
-- Questions?
-
 
 ### Quiz 
-Based on [Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/) 
 
-- What is the difference between a UX designer and and IxD?
-- How about an Information Architect?
+- What are some of the sub-fields of Interaction Design that we talked about last class? (UX, UI, Information Architect)
+
+Based on [Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/) 
 - According to the article we read, what is the first and most important job of any interface? (Clarity)
-	- Why? What happens without clarity?
+	- Why is clarity so important? (It makes the difference between an app that's usable and one that isn't.)
 
 - Go through list of principles and find examples from the apps that people posted
 
@@ -37,15 +33,23 @@ Based on [Principles of User Interface Design](http://bokardo.com/principles-of-
 
 
 
+### Housekeeping
+- Have people change their WP name to their full name (if necessary)
+- Questions?
 
 
-### Discuss Bad UX
+
+
+
+
+### Discuss Good/Bad UX
 - Review HW
 
-Make list on board of all the things that can make for frustrating UX:
+Make list on board of all the things that can make for frustrating or positive UX:
 
 (Get one student to write on board, and one to copy list and post to blog)
 
+Bad:
 1. False Expectations
 2. Bad hierarchy
 3. Faulty accessibility content
@@ -124,24 +128,29 @@ Make list on board of all the things that can make for frustrating UX:
 HW
 ---------------------------------------
 
-**Me: Post link to mini presentations spreadsheet on the Resources page**
-
 1. **Design of Everyday Things, Chapter 1**
 
-	This book is a classic, and an incredibly smart and easy-to-read look at how design affects usability. We will be reading several select chapters from this book, so make sure to buy this book soon. For now, here's [Chapter 1](http://teaching.thomhines.com/resources/Design%20of%20Everyday%20Things%20-%20Chapter%201.pdf).
+	This book is a classic, and an incredibly smart and easy-to-read look at how design affects usability. This weekend I want you to read [Chapter 1](http://teaching.thomhines.com/resources/Design%20of%20Everyday%20Things%20-%20Chapter%201.pdf).
+
+OR MAYBE **[this article on affordances](http://www.smashingmagazine.com/2014/06/24/affordance-most-underrated-word-in-web-design/)**
 	
 
 2. **Market Position and Feature Survey** 	
 	Answer these questions and post them to the blog:
 
-	1. What problem is your app trying to solve? (What are the top three objectives for your app?)
-	2. When do people typically use an app like this?
-	3. Who is your audience?
-	4. What are *all* of the features that apps like yours have?
-	5. What sets your app apart from the rest?
+	1. What are *all* of the features that apps like yours have?
+	2. When do people typically use an app like this? Who are these people?
+	3. What problem is *your* app trying to solve? (What are the top three objectives for the app you want to make? What sets your app apart from the rest?)
 
 
 3. **3 Sets of Wireframes** 	
 	I want to see three distinct directions. You don't have to design the login screens or anything else that you'll see in most other apps, but I do want to see the layout and core interactions for the main aspects of your app.
 
 	Consider different layouts, different interactions, and different affordances in each direction. What if you change your audience? What if you alter your main objective? Create a minimum of 5 frames per direction (15 frames total).
+
+
+
+4. **Mood Boards/Design Research**
+
+	Your first round of designs will be due next Thursday (two days after our next class), so make sure that you get a head start on it! Do as much as you can, but I'd like to see at least 20 pieces of design inspiration, type studies, color samples and whatever else you need to get started on actually designing something next week.
+ 

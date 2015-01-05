@@ -10,7 +10,8 @@ ART 410 - Day 3
 PREP
 ---------------------------------------
 - Load up list of UX No-No's from previous class to have ready for quiz questions
-- Post Survey to blog
+- Post Survey to blog (???)
+- Post 3x3 template to blog
 
 
 
@@ -19,25 +20,12 @@ CLASS
 
 
 ### Quiz
-- What are 5 things to avoid when designing a mobile UI? (Based on discussion from last class. Ask 5 different students)
-	- Too many buttons (or too small, or too close together)
-	- Unclear navigation
-	- Too much emphasis on social media
-	- Inconsistency (ie. design and function)
-	- Dependency on outside apps/tools
-	- Illegibility
-	- Dumb Apps (Lack of clear objectives)
-	- Slow or buggy
-	- Disorganized/cluttered
-	- Just plain ugly
-	- Bad audio
-	- Too much control
-	- Ads everywhere
-
-
-- What is the one thing you should always know before you start designing UIs? (Your objectives)
-- From the reading, what is the Principle of Mapping?
-- What is a Conceptual Model?
+Based on last class' discussions and 
+- What are some of the things that we have to consider when designing for mobile? (context, touch screen, additional smart phone features)
+- What can you do to make a good mobile UX? (Clear, intuitive, automation, progressive disclosure, consistency)
+- Bad? (clutter, complexity)
+- From the reading, what is the Principle of Mapping? (a clear relationship between a UI and the results, eg. the car stereo, steering wheel)
+- What is a Conceptual Model? (using existing patterns to define how interactions *work*. Bad example: refrigerator thermostat)
 
 
 
@@ -47,13 +35,18 @@ CLASS
 ### Discuss Reading
 *The Psychopathology of Everyday Things*
 
-- How does this stuff apply to interface design?
-
 - Affordances
 	- The door
-	- The projector (only one button to do two functions)
-	- The phone vs. the car (one button per function in the car)
-	- Show examples from [Pinterest](http://www.pinterest.com/search/pins/?q=product%20design) (product design and UI design)
+	- Bad: The projector (only one button to do two functions)
+	- Good: The phone vs. the car (one button per function in the car)
+	- What about digital? Show examples from [Pinterest](http://www.pinterest.com/search/pins/?q=product%20design) (product design and UI design)
+
+Talk about the many kinds of affordances as mentioned at [Smashing Magazine](http://www.smashingmagazine.com/2014/06/24/affordance-most-underrated-word-in-web-design/):
+	- Explicit (Click here...)
+	- Pattern (recognizable icons or conventions)
+	- Hidden (requires hover or non-standard interaction to use, such as Clear)
+	- False (appears to be an affordance but it's not, or it does something you wouldn't expect)
+	- Negative (Shows that an action can not be made, such as a disabled button)
 	
 - Provide a Good Conceptual Model
 	- The refrigerator
@@ -98,14 +91,6 @@ CLASS
 
 
 
-### 3x3 Idea Distillation
-Based on [Write better walkthroughs with the 3x3 Method](https://medium.com/@tomcavill/3x3-d6202ef7d077)
-
-- Have students explain to a n00b what the product is and why they should use it. 3 illustrations, each with 3 words accompanying them. In these three columns, explain what, why and how.
-
-What — what does your product do?
-Why — what’s the benefit? (makes for a good slogan).
-How — a differentiator. Perhaps an innovative piece of functionality or a cost indicator.
 
 
 ### User Flows
@@ -126,6 +111,16 @@ How — a differentiator. Perhaps an innovative piece of functionality or a 
 
 
 
+### 3x3 Idea Distillation
+Based on [Write better walkthroughs with the 3x3 Method](https://medium.com/@tomcavill/3x3-d6202ef7d077)
+
+- Have students explain to a n00b what the product is and why they should use it. 3 illustrations, each with 3 words accompanying them. In these three columns, explain what, why and how.
+
+What — what does your product do?
+Why — what’s the benefit? (makes for a good slogan).
+How — a differentiator. Perhaps an innovative piece of functionality or a cost indicator.
+
+
 
 
 #### Wrap Up
@@ -141,20 +136,21 @@ How — a differentiator. Perhaps an innovative piece of functionality or a 
 HW
 ---------------------------------------
 
-Alternative readings
-- [Design Details: Hyperlapse for iOS](http://blog.brianlovin.com/design-details-hyperlapse-for-ios/)
-- [What Is The Most Underrated Word In Web Design?](http://www.smashingmagazine.com/2014/06/24/affordance-most-underrated-word-in-web-design/)
 
-1. **Create User Flows**
+1. **3x3 Idea Distillation**
+
+	Following the [3x3 method](https://medium.com/@tomcavill/3x3-d6202ef7d077) we talked about in class, see if you can get the essence of your app down to just 3 images and 9 words. If you want, you can use the [template](https://art410f14.files.wordpress.com/2014/09/3x3.pdf) I posted to the Resources page.
+
+
+2. **Create User Flows**
 
 	Based on the objectives you've set for yourself, start to create a list of all of the major pieces of functionality your users will need in order to use your app. Then, create user flows based on Ryan Singer's ["Component Flow"](http://37signals.com/svn/posts/1926-a-shorthand-for-designing-ui-flows) method that describe how a user can move between views and accomplish their primary tasks. You should create at a detailed user flow for each major user interaction (at least three), and post them to the blog.
 	
 
-2. **Update and Expand Wireframes**
+3. **Update Wireframes**
 
-	Use the best ideas from your wireframes and those you came up with in group discussions and create a more detailed set of wireframes that express how your site will be laid out and how it will work. They don't need to be in any particularly format, and they don't need to be overly detailed, but they should include buttons and labels enough that someone could figure out how to navigate and use your app.
- 
+	Using the best ideas from your wireframes and those you came up with in group discussions, create a more detailed set of wireframes that express how your site will be laid out and how it will work. I would recommend using a wireframe template that matches your phone's dimensions (which you can find at google.com), and they should include enough buttons and labels that someone could figure out how to navigate and use your app without you telling them how to do it.
 
-3. **Bring Android or iPhone/iPod Touch to Class**
+4. **Sign Up for InVision**
 
-	Make sure to install [POP](https://popapp.in/) before you come! If you don't have a smart phone, well... you're missing out!.
+	Go to the InVision [Education](http://www.invisionapp.com/education) site and use the activation code 56-73-13-19 to sign up for an account. InVision is giving our class an expanded 'Free' account. Feel free to play around with it if you want; we'll be using this software to make some interactive prototypes next week, so be ready to get going by the start of next class.

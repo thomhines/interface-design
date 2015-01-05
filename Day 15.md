@@ -17,32 +17,6 @@ CLASS
 
 
 
-### Introduce Project 3
-
-
-### Mini Presentations
-
-- Experience Design				Cindy
-- Chris Milk					Elizabeth
-- Augmented Reality				Alex
-- Gestural Interfaces			Nicole
-- Tangible Interfaces			Ashley
-- Hirosi Ishii					Cass
-- Sound/Vocal Intervaces
-	- [Voice Interface Ideas by Dustin Curtis](http://dcurt.is/voice-interfaces)
-- Facial Recognition/
-	Head Tracking				Daniel
-- Location-based Interfaces		Melinda
-	- Wayfinding
-	- Security
-	- Commerce
-	- Tourism
-	- Health
-	- Games
-	- Emergency Response
-	- Weather Services
-	- Social/Networking
-
 
 
 ### Practice Project 2 Presentations

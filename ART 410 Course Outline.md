@@ -53,16 +53,21 @@ Week 4 - *Work*
 - Work Session
 
 ### Day 8 
-- **Project 1 Crits**
+- Practice Presenting
+- Work Session
+
 
 Week 5 - UX Objectives
 ---------------------------------------
 ### Day 9
-- Needs Finding
+- **Project 1 Crits**
 
 ### Day 10
+- UX Research
+- Calm Technology
 - Site Comparisons
-- DOET, Chap. 6
+- Needs Finding
+
 
 Week 6 - Simplifying Experiences
 ---------------------------------------
@@ -70,7 +75,6 @@ Week 6 - Simplifying Experiences
 - Full Class Crits
 
 ### Day 12
-- Calm Technology
 - Game Design
 
 
@@ -78,9 +82,10 @@ Week 7 - Exploring Alternate Interfaces
 ---------------------------------------
 
 ### Day 13 
-- Full Class Crits
+- No Class
 
 ### Day 14 
+- Full Class Crits
 - Mini Presentations
 - Discussions on Experimental Interfaces
 - Practice Project 2 Presentations

@@ -14,15 +14,14 @@ PREP
 CLASS
 ---------------------------------------
 
-### Discuss UI Inspiration and Kits
-
-#### Nice UIs
-- [iPhone App Concepts](http://line25.com/articles/showcase-of-beautiful-iphone-app-ui-concept-designs)
-
-#### Kits
-- [30 Free UI Kits](http://line25.com/articles/30-free-ui-kits-featuring-detailed-web-elements)
-- [10 Flat UI Kits](http://webdesignledger.com/freebies/10-super-useful-free-flat-ui-kits)
-- [Flat UI](http://designmodo.github.io/Flat-UI/)
+### Quiz
+- What was the reading about?
+- What are some of the ways to give a bad presentation?
+	- Not getting off your ass
+	- Starting with an apology
+	- Giving the real estate tour (don't talk about what's obvious or what they can see already)
+	- Talking about typefaces (or colors, or code)
+	- What is the one trick that works every time? (Learn the client's goddamn name)
 
 
 ### Presenting UI
@@ -31,9 +30,21 @@ CLASS
 - How to make them emotionally powerful
 
 
+### Keynote Demo
+[Prototyping Animation with Keynote](http://robots.thoughtbot.com/animating-with-keynote)
+
+
 ### Group Crits
 
 Small groups to practice presentations, cycling out people between each group. I have 1-on-1 discussions with students.
+
+Have students discuss:
+- Presentation format
+- Presentation style
+- What items can be removed?
+- What items don't make sense? Is there enough in the presentation for someone to understand how to use the app from start to finish?
+- UI design
+
 
 
 ### Work Session
